@@ -1,0 +1,1 @@
+//Resolver has logic to handle query or mutations operations.

@@ -1,0 +1,20 @@
+/* src/styles/TextEditor.module.css */
+.toolbar {
+    background-color: #f8f9fa;
+  }
+  
+  .editor {
+    background-color: rgb(218, 234, 130);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+  }
+  
+  .editor:empty {
+    color: grey;
+  }
+  
+  .editor:focus {
+    outline: none;
+  }
+  
